@@ -4,7 +4,7 @@ class Config:
 
 class DevelopmentConfig(Config):
     DEBUG=True
-    MYSQL_HOST='swalbd2024.c9soamye8quw.us-east-1.rds.amazonaws.com'
+    MYSQL_HOST='libreria-db.cja2iq24edq4.us-east-1.rds.amazonaws.com'
     MYSQL_USER='admin'
     MYSQL_PASSWORD='Adminroot'
     MYSQL_DB='libreria-db'
